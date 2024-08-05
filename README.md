@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Junilu Lacar (@jlacar-jpmc)
 - 👀 I’m interested in agile technical practices like TDD, refactoring, automated testing
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Kotlin by solving Advent of Code puzzles
+- 💞️ I’m looking to collaborate on Software Teaming (mobbing/pairing), Refactoring/Tidying
 - 📫 How to reach me junilu dot lacar at jpmchase dot com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can solve a 3x3 Rubik's cube in less than a minute
